@@ -1,5 +1,10 @@
 # openvpn-install
 
+مهم
+برای اتصال به نت حتما این کار باید بعد نصب انجام بشه
+iptables -P INPUT ACCEPT
+iptables -P OUTPUT ACCEPT
+
 ![Test](https://github.com/angristan/openvpn-install/workflows/Test/badge.svg)
 ![Lint](https://github.com/angristan/openvpn-install/workflows/Lint/badge.svg)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=angristan.openvpn-install)
